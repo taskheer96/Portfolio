@@ -1,6 +1,6 @@
 # 🚀 Professional Portfolio | Md Taskheer Kamal
 
-Welcome to the source code of my personal portfolio. This site is a high-performance, responsive showcase of my work in **AI-ML and Cybersecurity**, featuring custom engineering and modern web aesthetics.
+Welcome to the source code of my personal portfolio. This site is a high-performance, responsive showcase of my work featuring custom engineering and modern web aesthetics.
 
 ## 🌐 Live Site
 [https://taskheer96.github.io/Portfolio/](https://taskheer96.github.io/Portfolio/)
